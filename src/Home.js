@@ -1,5 +1,6 @@
 import React from "react";
 import "./Home.css";
+import Product from "./Product";
 
 function Home() {
   return (
@@ -7,8 +8,14 @@ function Home() {
       <div className="home_container">
         <img
           className="home_image"
-          src="https://images-eu.ssl-images-amazon.com/images/G/31/AmazonSaheli/iwd21/hero/Main-hero-banner-web-7-1X._CB657864478_.jpg"
+          src="https://images-eu.ssl-images-amazon.com/images/G/31/AmazonVideo/2021/X-site/Multititle/Feb/EN/1500x600_Hero-Tall_NP._CB657651956_.jpg"
         />
+        <div className="home_row">
+          <Product />
+          <Product />
+        </div>
+        <div className="home_row"></div>
+        <div className="home_row"></div>
       </div>
     </div>
   );

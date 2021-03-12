@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project is being made for learning purpose.\
-Learning from youtube channel [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
+Learning from youtube channel [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ).\
+Focus of this project is to learn Firebase authentication, database and payment processing.
 
 ## Available Scripts
 

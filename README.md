@@ -2,7 +2,7 @@
 
 This project is being made for learning purpose.\
 Learning from youtube channel [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ).\
-Focus of this project is to learn Firebase authentication, database and payment processing.
+Focus of this project is to learn Firebase authentication, database and payment processing using Stripe Payment Library.
 
 ## Available Script
 
